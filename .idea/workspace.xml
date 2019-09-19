@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5530c9d2-2c01-420a-adce-5e9a0eebbada" name="Default Changelist" comment="" />
+    <list default="true" id="9b120240-c782-4327-86c3-64477c40c575" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1Qmpg8l2zWLDzTCUycthWNWNygO" />
+  <component name="ProjectId" id="1QxuqVrKUoivZ43E7iYzz1u67VJ" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -19,7 +19,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,13 +38,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5530c9d2-2c01-420a-adce-5e9a0eebbada" name="Default Changelist" comment="" />
-      <created>1568385733199</created>
+      <changelist id="9b120240-c782-4327-86c3-64477c40c575" name="Default Changelist" comment="" />
+      <created>1568724759253</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568385733199</updated>
-      <workItem from="1568385734371" duration="2157000" />
-      <workItem from="1568636054765" duration="8101000" />
+      <updated>1568724759253</updated>
+      <workItem from="1568724761405" duration="1684000" />
+      <workItem from="1568726964571" duration="11901000" />
+      <workItem from="1568740168554" duration="4013000" />
+      <workItem from="1568749471166" duration="16000" />
+      <workItem from="1568808813608" duration="2000" />
+      <workItem from="1568821581585" duration="2132000" />
+      <workItem from="1568893992580" duration="7199000" />
     </task>
     <servers />
   </component>
