@@ -61,15 +61,15 @@ html {
 }
 
 .logo-image {
-    height: 50px;
+    height: 75px;
     overflow: hidden;
     position: center;
     padding: 0;
 }
 
 .navbar img {
-    height: 50px;
-    width: 250px;
+    height: 75px;
+    width: 300px;
     border-radius: 3px;
 }
 
@@ -99,7 +99,10 @@ html {
     padding: 16px;
     text-align: center;
     background-color: #f1f1f1;
-    height: 53em;
+    height: 72em;
+}
+.card img {
+    border-radius: 10px;
 }
 
 .card2 {
@@ -107,7 +110,12 @@ html {
     padding: 16px;
     text-align: center;
     background-color: #f1f1f1;
-    height: 23em;
+    height: 41em;
+}
+
+.card2 img {
+    border-radius: 10px;
+    width: 300px;
 }
 /* Image Gallery */
 .gallery-row {
@@ -126,20 +134,6 @@ html {
     margin-top: 8px;
     vertical-align: middle;
     width: 100%;
-}
-
-@media screen and (max-width: 800px) {
-    .gallery-column {
-        flex: 50%;
-        max-width: 50%;
-    }
-}
-
-@media screen and (max-width: 600px) {
-    .gallery-column {
-        flex: 100%;
-        max-width: 100%;
-    }
 }
 
 /* Contact */
