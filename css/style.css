@@ -152,6 +152,10 @@ button {
     font-weight: lighter;
 }
 
+#contact {
+    margin: 1em;
+}
+
 /* Footer */
 .page-footer {
     background-color: #6e1b15;
