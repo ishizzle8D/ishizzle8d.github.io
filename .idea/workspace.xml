@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b120240-c782-4327-86c3-64477c40c575" name="Default Changelist" comment="" />
+    <list default="true" id="6ef4fc7f-739f-4967-b050-e3942436d22b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1QxuqVrKUoivZ43E7iYzz1u67VJ" />
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1RF0sKzPAO2XJUdE1RbQZVHRIcz" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -19,7 +24,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,24 +43,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9b120240-c782-4327-86c3-64477c40c575" name="Default Changelist" comment="" />
-      <created>1568724759253</created>
+      <changelist id="6ef4fc7f-739f-4967-b050-e3942436d22b" name="Default Changelist" comment="" />
+      <created>1569247741962</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568724759253</updated>
-      <workItem from="1568724761405" duration="1684000" />
-      <workItem from="1568726964571" duration="11901000" />
-      <workItem from="1568740168554" duration="4013000" />
-      <workItem from="1568749471166" duration="16000" />
-      <workItem from="1568808813608" duration="2000" />
-      <workItem from="1568821581585" duration="2132000" />
-      <workItem from="1568893992580" duration="7199000" />
-      <workItem from="1568984023038" duration="3787000" />
-      <workItem from="1568989257986" duration="599000" />
-      <workItem from="1569243516236" duration="61000" />
-      <workItem from="1569243962640" duration="1863000" />
-      <workItem from="1569247732570" duration="10000" />
-      <workItem from="1569250274153" duration="36000" />
+      <updated>1569247741962</updated>
+      <workItem from="1569247743064" duration="931000" />
+      <workItem from="1569249592269" duration="680000" />
+      <workItem from="1569501495063" duration="16447000" />
     </task>
     <servers />
   </component>
