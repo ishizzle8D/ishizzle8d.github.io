@@ -231,7 +231,22 @@ textarea {
 #cform {
     text-align: center;
     margin: auto;
-    width: 66.66%;
+    width: 50%;
+}
+
+
+#cinfo {
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 2em;
+}
+
+#cinfo a {
+    color: #333;
+}
+
+#cinfo a:hover {
+    color: whitesmoke;
 }
 
 /* Footer */
