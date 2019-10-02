@@ -43,7 +43,6 @@ header .header-content {
     width: 100%;
     padding: 100px 15px 70px;
     text-align: center;
-    height: 1000px;
 }
 
 header .header-content .header-content-inner h1 {
@@ -61,14 +60,8 @@ header .header-content .header-content-inner p {
 }
 
 .header-content-inner img {
-    width: 50%;
+    width: 450px;
 }
-
-.header-content-inner {
-    margin-top: 10em;
-}
-
-
 
 .section-heading {
     margin-top: 0;
