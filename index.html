@@ -15,9 +15,6 @@
     <link href="css/custom.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap" rel="stylesheet">
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800'
           rel='stylesheet' type='text/css'>
 
@@ -26,7 +23,7 @@
 <body>
 
 <!-- Navigation -->
-<nav id="siteNav" class="navbar navbar-default navbar-fixed-top" role="navigation">
+<nav id="siteNav" class="navbar navbar-default navbar-fixed-top">
     <div class="container">
         <!-- Logo and responsive toggle -->
         <div class="navbar-header">
@@ -36,7 +33,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="#home">
                 <span class="glyphicon"></span>
                 Cabana Pools of SWFL Inc.
             </a>
@@ -53,7 +50,7 @@
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                        aria-expanded="false">Services <span class="caret"></span></a>
-                    <ul class="dropdown-menu" aria-labelledby="about-us">
+                    <ul class="dropdown-menu">
                         <li><a href="#residential">Residential/Commercial Pool Service</a></li>
                         <li><a href="#remodel">Remodels/Repairs</a></li>
                         <li><a href="#custom">Custom Pools</a></li>
@@ -174,7 +171,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Test1"
+                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
                    data-image="images/img18.jpg"
                    data-target="#image-gallery">
                     <img class="img-thumbnail"
@@ -183,7 +180,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Im so nice"
+                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
                    data-image="images/img15.jpg"
                    data-target="#image-gallery">
                     <img class="img-thumbnail"
@@ -194,7 +191,7 @@
 
 
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Im so nice"
+                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
                    data-image="images/img11.jpg"
                    data-target="#image-gallery">
                     <img class="img-thumbnail"
@@ -203,7 +200,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Im so nice"
+                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
                    data-image="images/img12.jpg"
                    data-target="#image-gallery">
                     <img class="img-thumbnail"
@@ -212,7 +209,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Im so nice"
+                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
                    data-image="images/img13.jpg"
                    data-target="#image-gallery">
                     <img class="img-thumbnail"
@@ -223,7 +220,7 @@
 
 
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Im so nice"
+                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
                    data-image="images/img32.jpg"
                    data-target="#image-gallery">
                     <img class="img-thumbnail"
@@ -241,7 +238,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Im so nice"
+                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
                    data-image="images/img16.jpg"
                    data-target="#image-gallery">
                     <img class="img-thumbnail"
@@ -261,18 +258,18 @@
         </div>
 
 
-        <div class="modal fade" id="image-gallery" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+        <div class="modal fade" id="image-gallery" tabindex="-1" role="dialog"
              aria-hidden="true">
             <div class="modal-dialog modal-lg">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h4 class="modal-title" id="image-gallery-title"></h4>
+                        <h4 class="modal-title" id="image-gallery-title">#</h4>
                         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span
                                 class="sr-only">Close</span>
                         </button>
                     </div>
                     <div class="modal-body">
-                        <img id="image-gallery-image" class="img-responsive col-md-12" src="" alt="">
+                        <img id="image-gallery-image" class="img-responsive col-md-12" src="images/img1.jpg" alt="">
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary float-left" id="show-previous-image"><i
@@ -296,7 +293,8 @@
     <div class="contact" id="contacts">
         <div class="container">
             <h2 class="section-heading">Contact Us</h2>
-            <p><span class="glyphicon glyphicon-earphone"></span><br> (239)-851-3200</p>
+            <p><span class="glyphicon glyphicon-earphone"></span><br>(239)-851-3200</p>
+            <br>
             <p><span class="glyphicon glyphicon-envelope"></span><br> keith@cabanapools.net</p>
         </div>
     </div>
@@ -304,7 +302,7 @@
     <!-- Copyright etc -->
     <div class="small-print">
         <div class="container">
-            <p>Copyright &copy; 2010 Cabana Pools of Southwest FL, Inc.. All rights reserved.</p>
+            <p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Cabana Pools of Southwest FL, Inc.. All rights reserved.</p>
         </div>
     </div>
 
@@ -315,6 +313,8 @@
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.easing.min.js"></script>
 <script src="js/custom.js"></script>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 
 </body>
 
